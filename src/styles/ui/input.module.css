@@ -1,0 +1,40 @@
+.search_bar {
+  background-color: rgb(73, 79, 189);
+  border: 0;
+  padding: 0;
+  outline: none;
+  border-radius: 0.7rem 0 0 0.7rem;
+  width: 30rem;
+  height: 3rem;
+  text-indent: 1rem;
+  color: white;
+}
+
+.search_bar::placeholder {
+  color: rgb(125, 129, 235);
+  text-indent: 1rem;
+}
+
+.search_bar:focus {
+  z-index: 10;
+}
+
+.search_icon {
+  background-color: rgb(73, 79, 189);
+  border-radius: 0 0.7rem 0.7rem 0;
+  height: inherit;
+  color: rgb(125, 129, 235);
+  padding-right: 1rem;
+  padding-top: 0.6rem;
+}
+
+@media (max-width: 1024px) {
+  .search_bar {
+    width: 20rem;
+    height: 2.5rem;
+  }
+
+  .search_icon {
+    padding-top: 0.5rem;
+  }
+}

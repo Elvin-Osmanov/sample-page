@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Street Artists",
+    "image": "/assets/groups/streetartist.jpeg",
+    "isPublic": true,
+    "membersCount": 10,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 2,
+    "name": "Cosplayers of the World",
+    "image": "/assets/groups/cosplayers.jpeg",
+    "isPublic": true,
+    "membersCount": 12,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 3,
+    "name": "Stream Designers",
+    "image": "/assets/groups/streamdesigners.jpeg",
+    "isPublic": true,
+    "membersCount": 13,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Watchtower",
+    "image": "/assets/groups/gaming.webp",
+    "isPublic": false,
+    "membersCount": 13,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 5,
+    "name": "Live In Japan",
+    "image": "/assets/groups/liveinjapan.jpeg",
+    "isPublic": true,
+    "membersCount": 12,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 6,
+    "name": "Car Lovers",
+    "image": "/assets/groups/carlovers.png",
+    "isPublic": true,
+    "membersCount": 6,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 7,
+    "name": "Live In USA",
+    "image": "/assets/groups/liveinusa.jpeg",
+    "isPublic": false,
+    "membersCount": 5,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  }
+]

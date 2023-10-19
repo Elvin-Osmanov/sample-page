@@ -1,0 +1,24 @@
+@import "bootstrap/dist/css/bootstrap.css";
+@import "react-toastify/dist/ReactToastify.css";
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap");
+
+header {
+  background-color: rgb(91, 99, 235);
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+body {
+  background-color: rgb(248, 248, 251) !important;
+  font-family: "Cairo", sans-serif !important;
+}
+
+main {
+  position: relative;
+}
+
+.react-icons {
+  vertical-align: middle;
+}

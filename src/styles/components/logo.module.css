@@ -1,0 +1,25 @@
+.logotext {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: white;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+@media (max-width: 1024px) {
+  .logotext {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .logotext {
+    font-size: 0.5rem;
+  }
+}
+
+@media (max-width: 426px) {
+  .logotext {
+    font-size: 0.6rem;
+  }
+}

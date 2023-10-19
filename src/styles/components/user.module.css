@@ -1,0 +1,33 @@
+.user_wrapper {
+  display: flex;
+  background-color: transparent;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.image_wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.user_info_fullname {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.user_info_username {
+  font-size: 0.7rem;
+  font-weight: 300;
+}
+
+.verified_icon {
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 1024px) {
+  .user_info_fullname {
+    font-size: 0.7rem;
+  }
+}

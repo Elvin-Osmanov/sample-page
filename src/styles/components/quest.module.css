@@ -1,0 +1,39 @@
+.quest_wrapper {
+  background-color: transparent;
+  padding: 0.3rem 0;
+}
+
+.image_wrapper {
+  display: flex;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.quest_info {
+  padding-left: 1rem;
+}
+
+.quest_info_name {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.quest_info_desc {
+  font-size: 0.7rem;
+  font-weight: 300;
+}
+
+@media (max-width: 1024px) {
+  .quest_info_name {
+    font-size: 0.7rem;
+  }
+
+  .quest_info {
+    padding-left: 0.5rem;
+  }
+
+  .icon_wrapper {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Posting Machine",
+    "image": "/assets/quests/medal.png",
+    "description": "Has joined at least 10 different groups",
+    "progress": 50,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 2,
+    "name": "Reaction Machine",
+    "image": "/assets/quests/medal.png",
+    "description": "Got 100 reactions on a post",
+    "progress": 60,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  }
+]

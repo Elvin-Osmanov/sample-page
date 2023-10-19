@@ -1,0 +1,45 @@
+.group_wrapper {
+  display: flex;
+  background-color: transparent;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.25rem 0;
+}
+
+.image_wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.group_info {
+  padding-left: 1rem;
+}
+
+.icon_wrapper {
+  font-size: 1.5rem;
+}
+
+.group_info_name {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.group_info_count {
+  font-size: 0.7rem;
+  font-weight: 300;
+}
+
+@media (max-width: 1024px) {
+  .group_info_name {
+    font-size: 0.7rem;
+  }
+
+  .group_info {
+    padding-left: 0.5rem;
+  }
+
+  .icon_wrapper {
+    font-size: 1rem;
+  }
+}

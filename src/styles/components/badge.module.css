@@ -1,0 +1,31 @@
+.badge_wrapper {
+  background-color: transparent;
+  padding: 0.3rem 0;
+}
+
+.image_wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.badge_info {
+  padding-left: 1rem;
+}
+
+.badge_info_name {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.badge_info_desc {
+  font-size: 0.7rem;
+  font-weight: 300;
+}
+
+@media (max-width: 1024px) {
+  .badge_info_name {
+    font-size: 0.7rem;
+  }
+}

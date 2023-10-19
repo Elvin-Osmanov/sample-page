@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "fullName": "Sandra Strange",
+    "profilePicture": "/assets/users/user1.png",
+    "userName": "sanstrange",
+    "level": 1,
+    "progress": 20,
+    "isVerified": true,
+    "isProMember": false,
+    "createdAt": "Tue Oct 17 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 2,
+    "fullName": "Rosie Sakura",
+    "profilePicture": "/assets/users/user3.png",
+    "userName": "sakurara",
+    "level": 4,
+    "progress": 80,
+    "isVerified": false,
+    "isProMember": false,
+    "createdAt": "Tue Oct 16 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 3,
+    "fullName": "Damian Greyson",
+    "profilePicture": "/assets/users/user2.png",
+    "userName": "dgreyson",
+    "level": 1,
+    "progress": 20,
+    "isVerified": false,
+    "isProMember": false,
+    "createdAt": "Tue Oct 15 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 4,
+    "fullName": "The Green Goo",
+    "profilePicture": "/assets/users/user4.png",
+    "userName": "greengoo",
+    "level": 1,
+    "progress": 20,
+    "isVerified": false,
+    "isProMember": false,
+    "createdAt": "Tue Oct 14 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 5,
+    "fullName": "Bearded Wonder",
+    "profilePicture": "/assets/users/user5.png",
+    "userName": "brdwonder",
+    "level": 2,
+    "progress": 40,
+    "isVerified": false,
+    "isProMember": false,
+    "createdAt": "Tue Oct 13 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 6,
+    "fullName": "Marina Valentian",
+    "profilePicture": "/assets/users/user5.png",
+    "userName": "masha",
+    "level": 4,
+    "progress": 80,
+    "isVerified": true,
+    "isProMember": true,
+    "createdAt": "Tue Oct 12 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  }
+]

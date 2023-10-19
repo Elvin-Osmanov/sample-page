@@ -1,0 +1,18 @@
+.hexagon_background {
+  width: 3rem;
+  height: 3rem;
+  clip-path: polygon(50% 5%, 90% 25%, 90% 75%, 50% 95%, 10% 75%, 10% 25%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 1rem;
+  background-color: black;
+  position: relative;
+}
+
+@media (max-width: 1024px) {
+  .hexagon_background {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}

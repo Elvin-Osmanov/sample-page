@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Globe Trotter",
+    "image": "/assets/badges/globetrotter.png",
+    "description": "Has joined at least 10 different groups",
+    "progress": 40,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  },
+  {
+    "id": 2,
+    "name": "Knowledge Sharing Master",
+    "image": "/assets/badges/postsharer.png",
+    "description": "Got 100 reactions on a post",
+    "progress": 30,
+    "createdAt": "Tue Oct 10 2023 22:27:48",
+    "modifiedAt": "Tue Oct 10 2023 22:27:48"
+  }
+]

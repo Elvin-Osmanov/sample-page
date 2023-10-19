@@ -1,0 +1,14 @@
+.tab_wrapper {
+  background-color: white;
+  border-radius: 0.7rem;
+  margin-top: 1.5rem;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tab_text_wrapper {
+  padding: 2rem 0;
+  border-bottom: 5px rgb(93, 206, 220) solid;
+}

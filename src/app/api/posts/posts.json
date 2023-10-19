@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "id": 6,
+      "fullName": "Marina Valentina",
+      "profilePicture": "/assets/users/user5.png",
+      "userName": "masha",
+      "level": 4,
+      "progress": 80,
+      "isVerified": true,
+      "isProMember": true,
+      "createdAt": "Tue Oct 12 2023 22:27:48",
+      "modifiedAt": "Tue Oct 10 2023 22:27:48"
+    },
+    "postImage": "",
+    "activity": "replied to the topic Welcome to Cosplayers Group Forum! in the Cosplayers Group Forum!",
+    "content": "Hello Everyone",
+    "shares": 10,
+    "reactions": 10,
+    "comments": [{ "userId": 2, "opinion": "good one", "replies": [] }],
+    "createdAt": "Tue Oct 10 2022 22:27:48",
+    "modifiedAt": "Tue Oct 10 2022 22:27:48"
+  },
+  {
+    "id": 2,
+    "user": {
+      "id": 6,
+      "fullName": "Marina Valentina",
+      "profilePicture": "/assets/users/user5.png",
+      "userName": "masha",
+      "level": 4,
+      "progress": 80,
+      "isVerified": true,
+      "isProMember": true,
+      "createdAt": "Tue Oct 12 2023 22:27:48",
+      "modifiedAt": "Tue Oct 10 2023 22:27:48"
+    },
+    "postImage": "/assets/posts/postblizzard.webp",
+    "activity": "posted an update",
+    "content": "https://www.linktovideo.com",
+    "shares": 10,
+    "reactions": 3,
+    "comments": [{ "userId": 2, "opinion": "good one", "replies": [] }],
+    "createdAt": "Tue Oct 10 2022 22:27:48",
+    "modifiedAt": "Tue Oct 10 2022 22:27:48"
+  }
+]

@@ -1,0 +1,52 @@
+.hero {
+  background-image: url("/assets/newsfeed.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 13rem;
+  border-radius: 0.7rem;
+  position: relative;
+  display: grid;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  background: linear-gradient(to right, rgb(55, 77, 239), rgb(67, 217, 233));
+  opacity: 0.9;
+  border-radius: 0.7rem;
+}
+
+.hero_image {
+  position: absolute;
+  top: -2.8rem;
+  left: -1.8rem;
+}
+
+.heart_image {
+  position: absolute;
+  top: -1.5rem;
+  left: 13rem;
+  z-index: 2;
+}
+
+.hero_text {
+  padding: 5rem 0 0 5rem;
+}
+
+@media (max-width: 1024px) {
+  .hero_text {
+    padding: 5rem 0 0 10rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero_text {
+    padding: 5rem 0 0 18rem;
+  }
+}
